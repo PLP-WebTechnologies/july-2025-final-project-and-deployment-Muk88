@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+# Personal Portfolio Website
+
+## Project Purpose
+This project is a personal portfolio website designed to showcase my skills, projects, and professional background. It serves as a central hub for potential employers and collaborators to learn more about my work.
+
+## Structure
+The website is organized into four main pages:
+- **Home:** A landing page with a brief introduction.
+- **About:** Details about my skills and experience.
+- **Projects:** A gallery of my work.
+- **Contact:** A form to get in touch.
+
+## Live URL
+[Link to your deployed website will go here]
+=======
 # 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
 
 You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
@@ -88,3 +104,4 @@ Deploy your project and confirm that:
 * Clean, well-organized, and commented code
 * Successful live deployment with a working link
 * Evidence of following best practices
+>>>>>>> edbf23e5300a04663c721a0d266e34fcb55bdae7
